@@ -30,6 +30,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var buttonDott: UIButton!
     @IBOutlet weak var buttonEqual: UIButton!
     
+
     
     override func viewDidLoad() {
         
